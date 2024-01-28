@@ -56,7 +56,10 @@ The Sunset AMS offers features tailored for managers, maintenance staff, and res
 
 - Isuru D Rajamanthri
 - PiyumiRandika
-- [Contributor 3]
+- Chalani Ekanayeke
+- G K M Perera
+- Thakshila Dhananjani
+- Chalani Jayakodi
 
 ## License
 
