@@ -1,4 +1,3 @@
-# Sunset_Apartment
 # Sunset Apartment Management System (AMS)
 
 ## Introduction
