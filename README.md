@@ -4,7 +4,8 @@
 
 The Sunset Apartment Management System (AMS) is designed to streamline and automate the management of apartment complexes, enhancing the living experiences for both residents and property managers. This user-friendly platform aims to improve efficiency, communication, accuracy, and accessibility in managing various tasks such as rent collection, maintenance requests, resident communication, and financial tracking.
 
-![home](https://github.com/Isuru-27/Sunset_Apartment/assets/139687227/9702bca6-28f2-49a9-89b6-abdfa63b1922)
+![Get](https://github.com/Isuru-27/Sunset_Apartment/assets/139687227/b5d44341-77d2-4438-be46-8fe29e0396ed)
+
 
 ## Problem Statement
 
@@ -27,6 +28,10 @@ The primary aim of the Sunset AMS project is to develop and implement a comprehe
 The Sunset AMS offers features tailored for managers, maintenance staff, and residents, with residents being the main users. Here's a brief overview of the project scope:
 
 1. **Registration and Login**: New users register in the Modern Apartments System (MRS) and select their desired accommodation category. After registration, users can log in to the system.
+![log](https://github.com/Isuru-27/Sunset_Apartment/assets/139687227/4a464761-dd1f-4430-9ab6-6a07c9522c9d)
+![home](https://github.com/Isuru-27/Sunset_Apartment/assets/139687227/329f6447-d795-4dbc-8c95-bd82c43ff3cb)
+
+
 2. **Selection of Facilities**: Users choose facilities provided by the system, such as swimming pools, libraries, indoor playgrounds, and children parks.
 3. **Payment and Booking**: Users select their accommodation duration and payment methods. Upon successful payment, users receive a notification confirming their registration.
 4. **Member Details and Key Issuance**: Users fill in details of all members staying in the apartment and obtain an online key.
