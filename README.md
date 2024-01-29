@@ -4,6 +4,8 @@
 
 The Sunset Apartment Management System (AMS) is designed to streamline and automate the management of apartment complexes, enhancing the living experiences for both residents and property managers. This user-friendly platform aims to improve efficiency, communication, accuracy, and accessibility in managing various tasks such as rent collection, maintenance requests, resident communication, and financial tracking.
 
+![home](https://github.com/Isuru-27/Sunset_Apartment/assets/139687227/9702bca6-28f2-49a9-89b6-abdfa63b1922)
+
 ## Problem Statement
 
 Managing apartment complexes manually or with outdated software poses challenges for property managers, maintenance staff, and residents. Without a dedicated AMS, property managers face increased workloads, higher chances of errors, and difficulties in resident communication. Residents may experience delays in issue resolution and rent-related concerns. This problem is prevalent in apartment complexes, condominiums, and housing associations across various locations, impacting operational efficiency and resident satisfaction.
