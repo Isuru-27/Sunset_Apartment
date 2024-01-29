@@ -60,12 +60,12 @@ The Sunset AMS offers features tailored for managers, maintenance staff, and res
 
 ## Contributors
 
-- [Isuru D Rajamanthri](#https://github.com/Isuru-27)
-- PiyumiRandika
-- Chalani Ekanayeke
-- G K M Perera
-- Thakshila Dhananjani
-- Chalani Jayakodi
+- [Isuru D Rajamanthri](#Isuru-27)
+- [Piyumi Randika](#PiyumiRandika)
+- [Chalani Ekanayeke]
+- [G K M Perera](#Madhushani123)
+- [Thakshila Dhananjani](#ThakshilaDhanjani)
+- [Chalani Jayakodi](#Cpooh)
 
 ## License
 
