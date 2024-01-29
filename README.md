@@ -60,7 +60,7 @@ The Sunset AMS offers features tailored for managers, maintenance staff, and res
 
 ## Contributors
 
-- [Isuru D Rajamanthri](#Isuru-27)
+- [Isuru D Rajamanthri](#[Isuru-27](https://github.com/Isuru-27))
 - PiyumiRandika
 - Chalani Ekanayeke
 - G K M Perera
