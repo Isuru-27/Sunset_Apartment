@@ -1,0 +1,422 @@
+body{
+  background-color: #9873d3;
+  font-family: Verdana, sans-serif;
+  margin: 0;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head1{
+background-image: linear-gradient(to bottom right, rgb(43, 6, 175), rgb(28, 112, 190),rgb(80, 174, 236));
+height: 200px;
+}
+.sidenav {
+  height: 100%;
+  width:30%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:rgb(160,100,216);
+  border-style: solid;
+  border-color: rgb(160,100,216);
+  border-radius: 10px;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color:black;
+  display: block;
+  transition: 0.3s;
+  font-weight: bold;
+}
+
+.sidenav a:hover {
+  color:black;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+ul li:hover a{
+  padding-left:50px;
+}
+.sidenav ul i{
+  margin-right:16px ;
+
+}
+
+.bar{
+  margin-left: 30px;
+  padding-top: 20px;
+  size: 50%;
+}
+
+.p1{
+  padding-top: 30px;
+  padding-bottom: 40px;
+  font-family: 'cherry swash';
+  padding-left: 40px;
+  font-size: 36px;
+}
+
+.logout-button {
+background-color: #5603f1;
+color: #fff;
+padding: 10px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+width: 100px;
+margin-bottom: 10px;
+margin-right: 40px;
+margin-left: 10px;
+}
+
+.out{
+margin-bottom: 50px;
+float: right;
+margin-top: 130px;
+}
+
+.profile-container {
+max-width: 300px;
+margin: 50px auto;
+text-align: center;
+float: right;
+}
+
+.spa1{
+width: 60px;
+}
+
+.profile-image {
+border-radius: 70%;
+width: 100px;
+height: 100px;
+object-fit: cover;
+margin-bottom: 10px;
+cursor: pointer;
+margin-left: auto;
+display: block;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: black;
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  width: 90%;
+  max-width: 1200px;
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+.brand{
+    float: right;
+    padding-left: 170px;
+}
+
+.upload-button {
+  display: none;
+}
+
+/* search button*/
+body {
+  font-family: Arial;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 11px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/*end search button*/
+
+.header1{
+  padding-left: 50px;
+  color: rgb(16, 15, 15);
+  font-size: 28px;
+  font-family: 'Abhaya Libre';
+}
+
+#myImg{
+  border-radius:15px;
+  border-bottom: radius 50px;
+  cursor: pointer;
+  transition: 0.3s;
+  float: left;
+  width: 900px;
+  height: 380px;
+  border-style: solid;
+  border-color: #000000;
+  margin-left: 70px;
+}
+
+#myImg1{
+border-radius:50px;
+border-bottom: radius 50px;
+cursor: pointer;
+transition: 0.3s;
+float: left;
+width: 600px;
+height: 380px;
+border-style: solid;
+border-color: #000000;
+
+}
+
+#myImg2{
+border-radius:50px;
+border-bottom: radius 50px;
+cursor: pointer;
+transition: 0.3s;
+float: left;
+width: 600px;
+height: 380px;
+border-style: solid;
+border-color: #000000;
+
+}
+
+#para1{
+font-size: 64px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container a{
+  font-size: 32px;
+  margin-right: 80px;
+}
+
+.image-container {
+  flex: 1;
+  padding: 20px;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+/*image vweihfjk*/
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+display: none; /* Hidden by default */
+position: fixed; /* Stay in place */
+z-index: 1; /* Sit on top */
+padding-top: 100px; /* Location of the box */
+left: 0;
+top: 0;
+width: 100%; /* Full width */
+height: 100%; /* Full height */
+overflow: auto; /* Enable scroll if needed */
+background-color: rgb(0,0,0); /* Fallback color */
+background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+border-radius: 20px;
+}
+
+/* Modal Content (image) */
+.modal-content {
+margin: auto;
+display: block;
+width: 80%;
+max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+margin: auto;
+display: block;
+width: 80%;
+max-width: 700px;
+text-align: center;
+color: #db0b0b;
+padding: 10px 0;
+height: 150px;
+}
+
+/* The Close Button */
+.close {
+position: absolute;
+top: 15px;
+right: 35px;
+color: #f1f1f1;
+font-size: 40px;
+font-weight: bold;
+transition: 0.3s;
+}
+
+.close:hover,.close:focus {
+color: #bbb;
+text-decoration: none;
+cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+.modal-content {
+  width: 100%;
+}
+}
+/* over image hdwefoerg*/
+
+.header2{
+  padding-left: 90px;
+  float: left;
+  text-align:3px;
+  color:#CD7F32;
+  font-size: 50px;
+  font-family: 'Abril Fatface';
+  
+}
+
+.header3{
+  padding-left: 90px;
+  float: left;
+  text-align :3px;
+  color:#C0C0C0;
+  font-size: 50px;
+  font-family: 'Abril Fatface';
+  
+}
+
+.header4{
+  padding-left: 90px;
+  float: left;
+  text-align:3px;;
+  color: #FFD700;
+  font-size: 50px;
+  font-family: 'Abril Fatface';
+  
+}
+
+.tab1{
+  margin-right: 180px;
+}
+.tab2{
+  margin-right: 180px;
+}
+.tab3{
+  margin-right: 180px;
+}
+.td-star{
+  padding-right: 30px;
+}
+
+.prk{
+  padding-left: 20px;
+}
+
+.h1{
+  font-size: 50px;
+}
+
+.down{
+  float: left;
+}
+
+.nav_down{
+  width:550px;
+  background-color:#253490 !important;
+  border-bottom:2px solid #263490;
+}
+.nav_down div{
+  width:1520px;
+  color:black;
+  background-color:#2535a0;
+  font-family:calibri;
+  padding:10px;
+  text-align:left;
+  text-align:center;
+}
+
+.regbut button{
+  width: 350px;
+  height: 50px;
+  background-color: #25a054;
+  font-size: 20px;
+  margin-left: 40px;
+}

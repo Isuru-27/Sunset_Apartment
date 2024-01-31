@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://www.kaftancommunities.com/cm/dpl/images/create/luxury_apartments.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 654px;
+    
+}
+
+#circle {
+    position:fixed; 
+    top: 90%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    height: 400px; 
+    width: 1500px; 
+    border-radius: 900px 900px 0 0; 
+    background-color: rgb(159, 165, 223);
+    margin-bottom: 20px;
+
+}
+#circle h2{
+    text-align: center;
+    font-family: 'Aclonica';
+    color: white;
+    font-size: 36px;
+    padding-top: 1px;
+}
+
+#circle img{
+    width: 550px;
+    height: 400px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#circle p{
+    font-family: 'Amarante';
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 1px;
+}
+
+#circle1{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(178, 126, 226);
+    border-radius: 50%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+}
+
+.rec button{
+    font-size: 22px;
+    border-radius: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 60px;
+    width: 250px;
+    font-family: 'Inknut Antiqua';
+}
+
+rec a:link, a:visited {
+    background-color: white;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
