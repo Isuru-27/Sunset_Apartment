@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5a20a850f43b558a9e315d39/1519696736925-M943SJ4T2Q52SEXWEUJ2/On-point-capital-whay-are-so-many-luxury-apartments-being-built.jpeg);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+.login-container {
+    background-color:#ccc;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    width: 300px;
+    opacity: 0.8;
+}
+
+.login-container h2 {
+    color: #000000;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+    align-self: left;
+}
+
+.login-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.login-button {
+    background-color: #5603f1;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100px;
+    
+    
+}
+
+.alternative-login  {
+    margin-top: 20px;
+}
+
+.alternative-login img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#pass{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+
+
