@@ -62,7 +62,7 @@ The Sunset AMS offers features tailored for managers, maintenance staff, and res
 
 - [Isuru D Rajamanthri](#Isuru-27)
 - [Piyumi Randika](#PiyumiRandika)
-- [Chalani Ekanayeke]
+- [Chalani Ekanayeke](#Chalani2000)
 - [G K M Perera](#Madhushani123)
 - [Thakshila Dhananjani](#ThakshilaDhanjani)
 - [Chalani Jayakodi](#Cpooh)
